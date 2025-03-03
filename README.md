@@ -1,1 +1,1 @@
-# parqu-s_proyecto_final
+# proyecto_final_juego_parqués
